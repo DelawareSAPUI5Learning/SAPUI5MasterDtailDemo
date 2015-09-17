@@ -4,6 +4,9 @@ jQuery.sap.require("sap.ui.core.format.DateFormat");
 
 sap.ui.demo.myFiori.util.Formatter = {
 	
+		
+		
+		
 	_statusStateMap : {
 		"P" : "Success",
 		"N" : "Warning"
