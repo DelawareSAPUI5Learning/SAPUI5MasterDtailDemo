@@ -9,6 +9,8 @@ sap.ui.controller("sap.ui.demo.myFiori.view.App", {
 		var app = this.getView().app;
 		
 		
+		
+		
 		// load page on demand
 		var master = ("Master" === pageId);
 		if (app.getPage(pageId, master) === null) {
